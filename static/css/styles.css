@@ -1,0 +1,7 @@
+.wind{
+	background: url(../img/windarrow.svg);
+	display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-size: 100% 100%;
+}
